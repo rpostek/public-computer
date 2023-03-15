@@ -1,0 +1,2 @@
+# public-computer
+Komputer ogólnodostepny
