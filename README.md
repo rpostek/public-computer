@@ -18,6 +18,8 @@ Do usuwania profilu "Visitor" wykorzystuje się program delprof2.exe. Jego dokum
 Program uruchamia się z Harmonogramu zadań na zdarzenie wylogowywania.  
 - Program skopiować do c:\windows\system32
 - W Harmonogramie otworzyć kreator zadań "Akcja" -> "Utwórz zadanie podstawowe..."
-- Nazwa zadania "Usuń profil"
-- "Przy rejestrowaniu okreslonego zdarzenia"
-- Dziennik: "Zabezpieczenia", Źródło: "Microsoft Windows security auditing.", 
+- Nazwa zadania "Usuń profil", <kbd> Dalej&gt; </kbd>
+- "Przy rejestrowaniu okreslonego zdarzenia", <kbd> Dalej&gt; </kbd>
+- Dziennik: "Zabezpieczenia", Źródło: "Microsoft Windows security auditing.", Identyfikator zdarzenia: "4647", <kbd> Dalej&gt; </kbd>
+- Akcja: "Uruchom program", <kbd> Dalej&gt; </kbd>
+- 
